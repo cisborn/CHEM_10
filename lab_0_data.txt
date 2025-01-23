@@ -1,0 +1,4 @@
+Time(sec) Temperature(degreesC)
+0 0
+25 12
+50 22
